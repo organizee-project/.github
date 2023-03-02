@@ -13,7 +13,8 @@ O UI e UX da aplicação foi elaborado pela Ana Carolina e as telas podem ser en
 
 # Preview
 :books: Uma plataforma para organização e compartilhamento de anotações
-![](https://user-images.githubusercontent.com/68309624/160303377-a1f8a6e9-cf6f-4b4e-b51e-f4daee026cac.gif)
+
+![](https://user-images.githubusercontent.com/68309624/222536399-1d3982d1-c486-4d58-a707-c33e144e985d.gif)
 
 
 ## Páginas e funcionalidades
