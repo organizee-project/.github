@@ -32,20 +32,20 @@ O usuário pode:
 
 ## Tecnologias usadas
 **Front-end**
--NextJS
--Firebase
--Styled-components
--Typescript
--ReactQuery
--Axios
--Hooks
--EditorJS
+- NextJS
+- Firebase
+- Styled-components
+- Typescript
+- ReactQuery
+- Axios
+- Hooks
+- EditorJS
 
 **Back-end**
--Kotlin
--Postgres
--ElasticSearch
--AWS
+- Kotlin
+- Postgres
+- ElasticSearch
+- AWS
 
 ## License
-**O projeto, assim como sua documentação, é de autoria dos criadores aqui citados e não deve ser utilizado sem permissão.
+O projeto, assim como sua documentação, é de autoria dos criadores aqui citados e não deve ser utilizado sem permissão.
